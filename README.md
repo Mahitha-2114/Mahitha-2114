@@ -4,7 +4,6 @@
 
 I am currently pursuing my final year of bachelor’s in computer science at Vikrama Simhapuri University. In the recent past, I did an internship as a Web Developer at NexMind Software Solutions where I built a couple of websites using HTML, CSS, and JavaScript.
 
-
 ## Current Projects
 
 - Currently, I'm engaged in developing a gym website using Angular, focusing on delivering a seamless user experience and intuitive navigation.
@@ -21,11 +20,11 @@ I am currently pursuing my final year of bachelor’s in computer science at Vik
 - **Tools:** Git, VS Code, Tableau
 - **Operating System:** Windows
 
-
 ## Get in Touch
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mahithabudamagunta/)
 - 📧 Email me at mahi.mahitha021104@gmail.com
+
 
 
 Let's connect and build something amazing together!
