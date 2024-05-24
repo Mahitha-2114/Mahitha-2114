@@ -16,7 +16,7 @@ I am currently pursuing my final year of bachelor’s in computer science at Vik
 
 - **Languages:** HTML/CSS, JavaScript(Basics)
 - **Frameworks/Libraries:** Angular, Bootstrap, Tailwind CSS
-- **Databases:** PostgreSQL, MongoDB(Basics)
+- **Databases:** PostgreSQL
 - **Tools:** Git, VS Code, Tableau
 - **Operating System:** Windows
 
